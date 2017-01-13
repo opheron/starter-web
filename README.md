@@ -11,3 +11,7 @@ Here's an intro.
 Sample website with plenty of files for demos
 
 ## Deployment
+
+Here's how to deploy.
+
+Here's more information.
