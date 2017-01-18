@@ -18,4 +18,4 @@ Here's how to deploy.
 Here's more information.
 
 ### Copyright
-2016 Me
+Copyright Me
